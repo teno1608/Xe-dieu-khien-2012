@@ -1,0 +1,30 @@
+AutoECO Report
+FILE-A: F:\MACHNGLXEDIEUKHIEN\MDK\MNGL-1.MAX
+FILE-B: F:\MACHNGLXEDIEUKHIEN\MDK\MNGL.MNL
+If "*EOF*" immediately follows, no changes were made
+Net N10370732 renamed to N10380159
+Net N10370666 renamed to N10380155
+Net N10371016 renamed to N10380175
+Net N10370942 renamed to N10380171
+Net N10370870 renamed to N10380167
+Net N10370800 renamed to N10380163
+Adding R3.2 to net N10366998
+Adding SW9.1 to net N10366998
+Adding R3.3 to net N10367010
+Adding SW8.1 to net N10367010
+Deleting PVN1.19 from net N10380155
+Adding PVN1.33 to net N10380155
+Deleting PVN1.20 from net N10380159
+Adding PVN1.34 to net N10380159
+Deleting PVN1.21 from net N10380163
+Adding PVN1.35 to net N10380163
+Deleting PVN1.22 from net N10380167
+Adding PVN1.36 to net N10380167
+Deleting PVN1.27 from net N10380171
+Adding PVN1.37 to net N10380171
+Deleting PVN1.28 from net N10380175
+Adding PVN1.38 to net N10380175
+Deleting net N10371170
+Deleting net N10371092
+*EOF*
+No errors found

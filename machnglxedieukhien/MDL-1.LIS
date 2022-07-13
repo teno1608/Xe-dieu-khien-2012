@@ -1,0 +1,116 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\METRIC.TCH
+FILE-B: F:\MACHNGLXEDIEUKHIEN\MDL.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint AX/RC05
+Found footprint TO92/R100 from PRT file for original FP TO-92MOD, comp Q8
+Adding footprint TO220AB
+Adding footprint RAD/CK05
+Adding package RESISTOR
+Adding package R
+Adding package Q2SA1015
+Adding package OPTO_ISOLATOR-A_1
+Adding package DIODE
+Adding package Q2SC1815_0
+Adding package IRF540
+Adding package C
+Adding package LED
+Adding package CON2
+Adding package RELAY_DPDT_1
+Adding package CON6
+Adding component R90
+Found footprint R_1/4W from PRT file for part RESISTOR, comp R90
+Adding component R24
+Adding component Q8
+Adding component PC818
+Found footprint TO205AB from PRT file for part OPTO_ISOLATOR-A_1, comp PC818
+Adding component R25
+Adding component D25
+Found footprint CYL/D.650/LS.300/.040 from PRT file for part DIODE, comp D25
+Adding component R55
+Adding component Q7
+Adding component Q10
+Adding component Q24
+Adding component M1
+Adding component C9
+Adding component D26
+Adding component PC820
+Adding component D21
+Adding component C8
+Adding component D28
+Found library footprint with same name as part LED
+Adding component DC1_DC3
+Found footprint SIP/TM/L.200/2 from PRT file for part CON2, comp DC1_DC3
+Adding component R56
+Adding component R85
+Adding component D30
+Adding component D24
+Adding component DC1_DC1
+Adding component R89
+Adding component R57
+Adding component LS10
+Found footprint RELAY41 from PRT file for part RELAY_DPDT_1, comp LS10
+Adding component D27
+Adding component R86
+Adding component PC819
+Adding component R32
+Adding component R46
+Adding component R58
+Adding component R71
+Adding component DC1_DC8
+Adding component PC817
+Adding component D29
+Adding component R33
+Adding component J1
+Found footprint J6 from PRT file for part CON6, comp J1
+Adding component Q9
+Adding component R88
+Adding component Q23
+Adding component LS9
+Adding component M2DC2
+Adding component R72
+Adding component DC1_DC10
+Adding component R47
+Adding component D23
+Adding component R87
+Adding component D31
+Adding net GND_EARTH
+Adding net N10306065
+Adding net N10306061
+Adding net N10306057
+Adding net N10305281
+Adding net N10305581
+Adding net ROLE1
+Adding net N10306097
+Adding net N10306201
+Adding net ROLE2
+Adding net N10305375
+Adding net N10305839
+Adding net 12V
+Adding net N10305577
+Adding net N10306371
+Adding net N10305851
+Adding net N10305505
+Adding net N10306169
+Adding net N10305285
+Adding net N10306291
+Adding net N10305403
+Adding net N10305333
+Adding net N10305633
+Adding net N10305345
+Adding net N10306085
+Adding net N10305763
+Adding net N103059310
+Adding net N103056030
+Adding net N10306513
+Adding net N10308113
+Adding net N10306541
+Adding net N10308576
+Adding net 24V
+Adding net N10315294
+Adding net N10315976
+Adding net N10317814
+Adding net N10319883
+Deleting net DEFAULT
+*EOF*
+No errors found

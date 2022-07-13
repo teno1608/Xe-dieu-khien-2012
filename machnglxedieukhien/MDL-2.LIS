@@ -1,0 +1,11 @@
+AutoECO Report
+FILE-A: F:\MACHNGLXEDIEUKHIEN\MDL-1.MAX
+FILE-B: F:\MACHNGLXEDIEUKHIEN\MDL.MNL
+If "*EOF*" immediately follows, no changes were made
+Net N10308576 renamed to N10309220
+Deleting J1.4 from net N10306541
+Adding J1.3 to net N10306541
+Deleting J1.3 from net N10309220
+Adding J1.4 to net N10309220
+*EOF*
+No errors found

@@ -1,0 +1,75 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\METRIC.TCH
+FILE-B: F:\MACHNGLXEDIEUKHIEN\MDK\MNGL.MNL
+If "*EOF*" immediately follows, no changes were made
+Found footprint ZIGZAG.100/L.850/16 from PRT file for original FP RC05, comp R2
+Adding package RESISTOR
+Adding package SW_PUSHBUTTON
+Adding package CAP_POL
+Adding package RESISTOR_SIP_9
+Adding package LM7805_0
+Adding package CON5
+Adding package CAPACITOR
+Adding package PIC16F877A
+Adding package CON6
+Adding package CRYSTAL
+Adding package CAP_NP
+Adding package LED
+Adding package R
+Adding component R1
+Found footprint R_1/4W from PRT file for part RESISTOR, comp R1
+Adding component SW1
+Found footprint BUTTON from PRT file for part SW_PUSHBUTTON, comp SW1
+Adding component C5
+Found footprint C_100UF-50V from PRT file for part CAP_POL, comp C5
+Adding component SW2
+Adding component SW8
+Adding component R3
+Found footprint TRO_THANH_LON from PRT file for part RESISTOR_SIP_9, comp R3
+Adding component U1
+Found footprint J3 from PRT file for part LM7805_0, comp U1
+Adding component J13
+Found footprint J5 from PRT file for part CON5, comp J13
+Adding component C3
+Found footprint C_1000UF-50V from PRT file for part CAPACITOR, comp C3
+Adding component SW9
+Adding component SW3
+Adding component SW5
+Adding component PVN1
+Found footprint DIP 40 from PRT file for part PIC16F877A, comp PVN1
+Adding component J14
+Adding component Y1
+Found footprint THACH ANH from PRT file for part CRYSTAL, comp Y1
+Adding component C1
+Found footprint C_PI_TATALUM from PRT file for part CAP_NP, comp C1
+Adding component LEDN
+Found library footprint with same name as part LED
+Adding component SW4
+Adding component C2
+Adding component SW6
+Adding component R2
+Adding component SW7
+Adding net 5V
+Adding net GND_EARTH
+Adding net N10366670
+Adding net N10366608
+Adding net N10366604
+Adding net N103673080
+Adding net N10366998
+Adding net N10367010
+Adding net N10370666
+Adding net N10370732
+Adding net N10370800
+Adding net N10370870
+Adding net N10370942
+Adding net N10371016
+Adding net N10371092
+Adding net N10371170
+Adding net N10374201
+Adding net N10374317
+Adding net N10374435
+Adding net N10374798
+Adding net N10367208
+Deleting net DEFAULT
+*EOF*
+No errors found

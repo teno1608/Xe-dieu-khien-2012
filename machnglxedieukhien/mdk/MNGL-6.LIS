@@ -1,0 +1,18 @@
+AutoECO Report
+FILE-A: F:\MACHNGLXEDIEUKHIEN\MDK\MNGL-5.MAX
+FILE-B: F:\MACHNGLXEDIEUKHIEN\MDK\MNGL.MNL
+If "*EOF*" immediately follows, no changes were made
+Deleting J14.2 from net GND_EARTH
+Adding J14.5 to net GND_EARTH
+Deleting J14.6 from net N10374201
+Adding J14.1 to net N10374201
+Deleting J14.5 from net N10374317
+Adding J14.2 to net N10374317
+Deleting J14.4 from net N10384573
+Adding J14.3 to net N10384573
+Deleting J14.3 from net N10384704
+Adding J14.4 to net N10384704
+Deleting J14.1 from net N10367208
+Adding J14.6 to net N10367208
+*EOF*
+No errors found

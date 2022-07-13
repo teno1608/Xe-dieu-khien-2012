@@ -1,0 +1,15 @@
+ÀÄmain
+   ÀÄMAIN  0/37  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄsetbamxung  0/35  Ram=0
+      ÃÄ@delay_ms1  0/20  Ram=1
+      ÃÄchaycham  0/51  Ram=1
+      ³  ÃÄsetdc  0/17  Ram=2
+      ³  ÃÄsetdc  0/17  Ram=2
+      ³  ÀÄsetdcng  0/17  Ram=2
+      ÃÄ@delay_ms1  0/20  Ram=1
+      ÃÄchaynhanh  0/51  Ram=1
+      ³  ÃÄsetdc  0/17  Ram=2
+      ³  ÃÄsetdc  0/17  Ram=2
+      ³  ÀÄsetdcng  0/17  Ram=2
+      ÀÄ@delay_ms1  0/20  Ram=1
